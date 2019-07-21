@@ -1,6 +1,7 @@
 # Watson-personal-insights-node-whithout-SDK
-Access Watson personal insights with node.js avoiding SDK.
-Sometimes, we can need access Watson tools, but there are programation languages where we can´t use SDK.
+Access Watson Personal Insights with node.js avoiding SDK.
+Access Watson Personal Insights with node.js avoiding SDK.
+Sometimes, we can need access Watson tools, in programation languages where we can´t use SDK.
 In Node.js you allways have access to IBM SDK, but in my case I have the need in Navision using only a HttpRequest,
 and doing this example of node.js without SDK, could be applied to many other programation languages.
 Pre-requisites: Node.js and only Node.js
