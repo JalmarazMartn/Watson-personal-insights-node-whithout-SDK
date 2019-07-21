@@ -7,6 +7,7 @@ Pre-requisites: Node.js and only Node.js
 Files descriptions:
 - ApiKey - Example.json- Example to make you own ApiKey.json.
 - WatsonPersonalityInsights.js. Script.
-- Resp.json. Response form the service.
+- Resp.json. Response from the service.
+
 You can dowload Profile.json from IBM site: 
 https://watson-developer-cloud.github.io/doc-tutorial-downloads/personality-insights/reference/profile.json
