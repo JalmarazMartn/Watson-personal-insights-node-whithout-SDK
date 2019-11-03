@@ -1,6 +1,6 @@
 var request = require("request");
 auth = require('./ApiKey.json');
-var transUrl = "https://gateway-lon.watsonplatform.net/personality-insights/api/v3/profile?version=2017-10-13"
+var transUrl = "https://gateway-lon.watsonplatform.net/personality-insights/api/v3/profile?version=2017-10-13&consumption_preferences=true"
 var data2 = {};
 var data2 = require('./profile.json');
 request.post(
